@@ -1,0 +1,7 @@
+# dados de exemplo
+
+Ana Margarida Ferreira - ana.ferreira@exemplo.pt
+Bruno Miguel Carvalho - bruno.carvalho@exemplo.pt
+Carla Sofia Nogueira - carla.nogueira@exemplo.pt
+Diogo Alexandre Matos - diogo.matos@exemplo.pt
+Eduarda Cristina Lopes - eduarda.lopes@exemplo.pt
